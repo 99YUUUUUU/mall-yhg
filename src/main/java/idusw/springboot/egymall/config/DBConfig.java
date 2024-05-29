@@ -1,3 +1,4 @@
+//db 설정
 package idusw.springboot.egymall.config;
 
 import org.springframework.beans.factory.annotation.Value;
